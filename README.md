@@ -18,4 +18,4 @@ This project is a web-based application for managing an electric vehicle recharg
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/ev-recharge-bunk.git
+    https://github.com/naveenkumar631/-Electric-Vehicle-Recharge-Bunk.git
